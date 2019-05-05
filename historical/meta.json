@@ -1,0 +1,40 @@
+{
+    "HOU_20150302_0.png": {
+        "resource": "http://lite.hupu.com/s?u=nba/news/1882480",
+        "players": ["LeBron James", "James Harden"],
+        "tags": ["踢裆"]
+    },
+    "HOU_20150302_1.png": {
+        "resource": "https://voice.hupu.com/nba/1882551.html",
+        "players": ["LeBron James", "James Harden", "J.R. Smith"],
+        "tags": ["踢裆", "言论"]
+    },
+    "HOU_20150526_0.png": {
+        "resource": "https://voice.hupu.com/nba/1916694.html",
+        "players": ["Andrew Bogut", "Dwight Howard"],
+        "tags": ["恶意犯规"]
+    },
+    "HOU_20150528_0.png": {
+        "resource": "http://lite.hupu.com/s?u=nba/news/1917553",
+        "players": ["Klay Thompson", "Trevor Ariza"],
+        "tags": ["飞膝", "笨拙"]
+    },
+    "HOU_20150530_0.png": {
+        "resource": "https://voice.hupu.com/nba/1918084.html",
+        "players": ["Harrison Barnes", "Klay Thompson", "Trevor Ariza"],
+        "tags": ["言论", "飞膝"]
+    },
+    "HOU_20160423_0.png": {
+        "resource": "http://lite.hupu.com/s?u=nba/news/2024407",
+        "players": ["James Harden"],
+        "tags": ["推人绝杀", "裁判"]
+    },
+    "HOU_0.gif": {
+        "players": ["James Harden"],
+        "tags": ["投篮", "姿势"]
+    },
+    "HOU_1.gif": {
+        "players": ["Chris Paul", "Kevin Durant"],
+        "tags": ["恶意", "犯规"]
+    }
+}

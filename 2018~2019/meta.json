@@ -1,0 +1,30 @@
+{
+    "./3_playoffs/r2g1_0.gif": {
+        "players": ["James Harden", "Klay Thompson"],
+        "tags": ["垫脚", "造犯规", "圆柱体", "投篮", "雷吉米勒法则"]
+    },
+    "./3_playoffs/r2g1_1.gif": {
+        "players": ["James Harden", "Draymond Green"],
+        "tags": ["垫脚", "造犯规", "圆柱体", "投篮", "雷吉米勒法则"]
+    },
+    "./3_playoffs/r2g1_2.gif": {
+        "players": ["Chris Paul", "Klay Thompson"],
+        "tags": ["垫脚", "脚后跟垫脚"]
+    },
+    "./3_playoffs/r2g1_3.gif": {
+        "players": ["Kevin Durant"],
+        "tags": ["裁判"]
+    },
+    "./3_playoffs/r2g1_4.gif": {
+        "players": ["Chris Paul", "Kevin Durant"],
+        "tags": ["垫脚", "脚后跟垫脚"]
+    },
+    "./3_playoffs/r2g2_0.gif": {
+        "players": ["James Harden"],
+        "tags": ["打脸"]
+    },
+    "./3_playoffs/r2g3_0.gif": {
+        "players": ["James Harden", "Draymond Green"],
+        "tags": ["进攻犯规"]
+    }
+}
