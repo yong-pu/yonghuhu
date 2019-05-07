@@ -26,5 +26,9 @@
     "./3_playoffs/r2g3_0.gif": {
         "players": ["James Harden", "Draymond Green"],
         "tags": ["进攻犯规"]
+    },
+    "./3_playoffs/r2g4_0.gif": {
+        "players": ["James Harden", "Draymond Green"],
+        "tags": ["进攻犯规"]
     }
 }
