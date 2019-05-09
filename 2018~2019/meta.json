@@ -30,5 +30,9 @@
     "./3_playoffs/r2g4_0.gif": {
         "players": ["James Harden", "Draymond Green"],
         "tags": ["进攻犯规"]
+    },
+    "./3_playoffs/r2g5_0.png": {
+        "players": ["Austin Rivers", "Chris Paul", "Clint Capela", "Eric Gordon", "James Harden", "PJ Tucker"],
+        "tags": ["六打五", "技术犯规", "RULE NO. 12, Technical Foul, Section III—Number of Players"]
     }
 }
