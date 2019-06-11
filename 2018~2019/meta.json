@@ -38,5 +38,13 @@
     "./3_playoffs/r2g6_0.gif": {
         "players": ["Nenê Hilário", "Alfonzo McKinnie", "Jonas Jerebko"],
         "tags": ["篮下", "犯规"]
+    },
+    "./4_final/g5_0.gif": {
+        "players": ["Kawhi Leonard"],
+        "tags": ["裁判", "走步"]
+    },
+    "./4_final/g5_1.gif": {
+        "players": ["Kawhi Leonard"],
+        "tags": ["裁判", "走步"]
     }
 }
