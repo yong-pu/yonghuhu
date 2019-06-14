@@ -46,5 +46,9 @@
     "./4_final/g5_1.gif": {
         "players": ["Kawhi Leonard"],
         "tags": ["裁判", "走步"]
+    },
+    "./4_final/g5_1.gif": {
+        "players": ["Danny Green", "Stephen Curry"],
+        "tags": ["垫脚", "未遂"]
     }
 }
